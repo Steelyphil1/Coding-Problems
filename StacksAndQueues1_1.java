@@ -38,7 +38,7 @@ public class StacksAndQueues1_1 {
     //if the stack is null throw an exception, if not remove an element from the end of both lists
     public int pop() {
         if (stack.equals(null)) {
-            throw new IndexOutOfBoundsException();
+            throw new NullPointerException();
         } else {
             maxStack.remove(maxStack.size()-1);
             return stack.remove(stack.size()-1);
