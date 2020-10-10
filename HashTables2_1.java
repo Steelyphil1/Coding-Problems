@@ -43,6 +43,7 @@ public class HashTables2_1 {
             }
         }
         //print out the contents of the keySet, which sums have been reached, and the values aka how many times each sum has been reached
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
@@ -59,6 +60,7 @@ public class HashTables2_1 {
                 hashMap.put(sum, 1);
             }
         }
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
@@ -74,6 +76,7 @@ public class HashTables2_1 {
                 hashMap.put(sum, 1);
             }
         }
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
@@ -89,6 +92,7 @@ public class HashTables2_1 {
                 hashMap.put(sum, 1);
             }
         }
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
@@ -104,6 +108,7 @@ public class HashTables2_1 {
                 hashMap.put(sum, 1);
             }
         }
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
@@ -119,6 +124,7 @@ public class HashTables2_1 {
                 hashMap.put(sum, 1);
             }
         }
+        System.out.println("Sums Reached and how many times respectively:");
         System.out.println(hashMap.keySet());
         System.out.println(hashMap.values());
         System.out.println("------------------------");
