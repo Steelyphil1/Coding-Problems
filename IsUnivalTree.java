@@ -1,5 +1,5 @@
 /*
-    Given the root to a binary tree, count the number of unival subtrees.
+    Given the root to a binary tree, determine if it is a unival tree
  */
 
 public class IsUnivalTree {
